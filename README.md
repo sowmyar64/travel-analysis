@@ -1,5 +1,4 @@
 # travel-analysis
-# travel_analysis
 # Top Indian places to visit
 # Introduction
 Welcome to an extensive exploration guide showcasing must-visit destinations across India. This curated dataset offers detailed insights into each location's unique characteristics, serving as a valuable resource for travelers and enthusiasts alike. From historical landmarks to religious shrines and natural wonders, this dataset provides a comprehensive glimpse into India's diverse and rich cultural heritage.
