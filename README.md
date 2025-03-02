@@ -52,31 +52,24 @@ Identify and address missing values, outliers, and inconsistencies in the datase
 Explore the datasets to understand distributions, trends, and relationships between variables using descriptive statistics and data visualization techniques to uncover captivating insights into India's top destinations.
 
 # Visualization
+### Distribution of Landmarks by Zone:
+![image](https://github.com/user-attachments/assets/d255da20-4899-43a4-bbd6-ef746d24c97f)
 
-![image](https://github.com/user-attachments/assets/81031ca0-9daf-4f3f-8b3f-f07103fdef66)
-
-
-#### Distribution of Landmarks by Zone:
 The visualization illustrates the distribution of landmarks across different zones in India, revealing areas with higher concentrations of landmarks.
 
+### Top 10 States by Number of Landmarks:
+![image](https://github.com/user-attachments/assets/64467d8d-2155-4f18-894c-26270a8a71db)
 
-![image](https://github.com/user-attachments/assets/59c05322-8baa-4a03-9555-421a9fb80230)
-
-
-#### Top 10 States by Number of Landmarks:
 By highlighting the top 10 states with the highest number of landmarks, the visualization offers insights into the geographical distribution of landmarks across India.
 
+### Top 20 Types of Landmarks:
+![image](https://github.com/user-attachments/assets/eea04408-8444-4568-9e0e-d45b77ff860e)
 
-![image](https://github.com/user-attachments/assets/cdc1d13f-2694-4983-a19c-a0f96f0e3271)
-
-
-#### Top 20 Types of Landmarks:
 This visualization showcases the prevalence of various types of landmarks, with religious sites like temples and mosques dominating the list, providing insights into the cultural and religious significance of these landmarks in India.
 
 
-#### Distribution of Establishment Years:
-![image](https://github.com/user-attachments/assets/571bd3a3-5986-405c-a13f-f37428a6687b)
-
+### Distribution of Establishment Years:
+![image](https://github.com/user-attachments/assets/f2b05c68-fa37-4220-b4b0-bbbbc052202c)
 
 
 - The histogram shows the distribution of establishment years for landmarks.
@@ -84,8 +77,8 @@ This visualization showcases the prevalence of various types of landmarks, with 
 - From the visualization, it appears that the number of landmarks established increases gradually over time, with some fluctuations in certain periods.
 
 
- #### Review Ratings vs. Entrance Fees:
- ![image](https://github.com/user-attachments/assets/9d93858f-fee4-456f-8773-8cb155ed2375)
+ ### Review Ratings vs. Entrance Fees:
+![image](https://github.com/user-attachments/assets/5b1785ab-6f45-455b-b4c7-4e3b82ed5509)
 
 
 - The scatter plot displays the relationship between Google review ratings and entrance fees for landmarks.
@@ -94,10 +87,8 @@ This visualization showcases the prevalence of various types of landmarks, with 
 - From the visualization, it's observed that there's no clear pattern or correlation between review ratings and entrance fees. Landmarks with varying review ratings have entrance fees distributed across a wide range.
 
 
-#### Distribution of Time Needed to Visit:
-![image](https://github.com/user-attachments/assets/530df603-861d-4376-a274-4f416df70872)
-
-
+### Distribution of Time Needed to Visit:
+![image](https://github.com/user-attachments/assets/17d0a51f-9ef5-40d1-9839-3da600e30c54)
 
 The histogram visually represents the distribution of time required to visit landmarks within the dataset.
 - On the x-axis, the time needed to visit each landmark is displayed in hours, while the y-axis indicates the number of landmarks requiring a particular duration for visitation.
@@ -105,8 +96,9 @@ The histogram visually represents the distribution of time required to visit lan
 - This insight aids travelers in planning their itineraries by providing an understanding of the expected duration for visiting each landmark.
 
 
- #### Best Time to Visit Landmarks:
- ![image](https://github.com/user-attachments/assets/24c346a6-cd7a-4bbd-b045-ebddd6982a1d)
+ ### Best Time to Visit Landmarks:
+![image](https://github.com/user-attachments/assets/622d9f94-c14f-4617-9c24-a9fdb5610332)
+
 
 
 
@@ -116,8 +108,8 @@ The histogram visually represents the distribution of time required to visit lan
      for specific times such as morning, afternoon, evening, or night.
 
 
-#### Distribution of Landmarks by Historical Era:
-![image](https://github.com/user-attachments/assets/27498335-df7c-437e-a53a-36a642c419e1)
+### Distribution of Landmarks by Historical Era:
+![image](https://github.com/user-attachments/assets/5c325cfb-6d62-4f24-9583-dcbe62d9655f)
 
 
 - The bar plot illustrates the distribution of landmarks categorized into different historical eras based on their establishment year.
@@ -125,14 +117,13 @@ The histogram visually represents the distribution of time required to visit lan
 - The x-axis indicates the number of landmarks belonging to each historical era.
 - From the visualization, it's evident that landmarks are distributed across various historical periods, providing insights into the historical significance and evolution of landmarks over time.
 
-#### Number of Landmarks by State and Types of Landmarks by State (Top 5 States):
+### Number of Landmarks by State and Types of Landmarks by State (Top 5 States):
 
-![image](https://github.com/user-attachments/assets/3b85b139-0935-4864-871a-6ad09c41f711)
-![image](https://github.com/user-attachments/assets/f9625c68-30e3-4ba4-bdaf-a033db676c4e)
-![image](https://github.com/user-attachments/assets/db6b7015-7f5f-4bd1-8b65-d7a596b1b104)
-![image](https://github.com/user-attachments/assets/667dacc1-3154-4ce9-aa29-f2805f2af7d4)
-![image](https://github.com/user-attachments/assets/27a46757-4944-4a18-a897-30e5acd4c8b6)
-
+![image](https://github.com/user-attachments/assets/2a6bb00a-846e-42e2-9e3a-2d9b2b34d7cc)
+![image](https://github.com/user-attachments/assets/8fadd43e-3fb9-4a59-b22c-b6a6dcbb5087)
+![image](https://github.com/user-attachments/assets/4c628ec1-9339-4dda-8282-f7c01fa4c5c7)
+![image](https://github.com/user-attachments/assets/4f978683-e512-494b-8dda-e76d79c28257)
+![image](https://github.com/user-attachments/assets/1fae704b-c894-443e-a0b0-f7a5c583b300)
 
 
 The number of landmarks present in each state and sorts them in descending order based on the count. This provides an overview of the distribution of landmarks across different states in India.
@@ -140,8 +131,9 @@ For the top 5 states with the highest number of landmarks, the code generates in
 
 
 
-#### Distribution of Landmarks by Cultural Significance:
-![image](https://github.com/user-attachments/assets/682a9004-fa80-4614-bc06-35a3805fe610)
+### Distribution of Landmarks by Cultural Significance:
+![image](https://github.com/user-attachments/assets/21afdb7d-f826-4675-9b03-128df5a89b52)
+
 
 
 
@@ -153,8 +145,9 @@ For the top 5 states with the highest number of landmarks, the code generates in
 
 
 
-#### Top 5 Rated Place Types:
-![image](https://github.com/user-attachments/assets/38cc8cd1-7894-4230-8692-41c1a73af449)
+### Top 5 Rated Place Types:
+![image](https://github.com/user-attachments/assets/3d13c869-b374-4a6c-9f90-4498428cfeb1)
+
 
 
 
@@ -165,9 +158,10 @@ For the top 5 states with the highest number of landmarks, the code generates in
 - This visualization helps in understanding the overall ratings of the top-rated landmarks across different significance categories, providing insights into their popularity and public perception.
 
 
-#### Average Google Review Rating by State:
+### Average Google Review Rating by State:
 
-![image](https://github.com/user-attachments/assets/3097127a-411d-4332-ac1b-989304694e78)
+![image](https://github.com/user-attachments/assets/e178c54b-9596-40ce-a535-052338442fac)
+
 
 
 
@@ -178,9 +172,10 @@ For the top 5 states with the highest number of landmarks, the code generates in
 - This visualization provides insights into the overall satisfaction levels of visitors to landmarks in various states, helping travelers make informed decisions about their destinations.
 
 
-#### Distribution of Landmarks by Significance and DSLR Allowed:
+### Distribution of Landmarks by Significance and DSLR Allowed:
 
-![image](https://github.com/user-attachments/assets/1af731eb-f179-49d1-90ce-33c610865e23)
+![image](https://github.com/user-attachments/assets/2a9d3c99-553a-4609-b31a-ebe32fc5c256)
+
 
 
 
@@ -193,9 +188,10 @@ For the top 5 states with the highest number of landmarks, the code generates in
 
 
 
-#### Correlation Matrix of Numerical Variables:
+### Correlation Matrix of Numerical Variables:
 
-![image](https://github.com/user-attachments/assets/67f47c54-b162-42c2-b4d7-2eca31574dab)
+![image](https://github.com/user-attachments/assets/a42c1e45-3776-4b5b-98c3-b810194d0781)
+
 
 
 
